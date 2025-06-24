@@ -1,10 +1,8 @@
-,Date,Match,Odds
-1,2025-06-22,"LAKR v. SEO^Venue: Grand Prairie Stadium, Dallas^",52% LAKR
-2,2025-06-22,"TSK v. WF^Venue: Grand Prairie Stadium, Dallas^",57% WF
-3,2025-06-23,"MINY v. SFU^Venue: Grand Prairie Stadium, Dallas^",79% SFU
-4,2025-06-24,"TSK v. LAKR^Venue: Grand Prairie Stadium, Dallas^",77% TSK
-5,2025-06-25,"SFU v. SEO^Venue: Grand Prairie Stadium, Dallas^",90% SFU
-6,2025-06-26,"LAKR v. WF^Venue: Grand Prairie Stadium, Dallas^",81% WF
-7,2025-06-27,"MINY v. SEO^Venue: Grand Prairie Stadium, Dallas^",70% MINY
-8,2025-06-28,"SFU v. WF^Venue: Grand Prairie Stadium, Dallas^",65% SFU
-9,2025-06-29,"TSK v. MINY^Venue: Grand Prairie Stadium, Dallas^",61% TSK
+,Date,Match,Odds,Predicted Winner
+4,2025-06-24,"TSK v. LAKR^Venue: Grand Prairie Stadium, Dallas^",75% TSK,TSK
+5,2025-06-25,"SFU v. SEO^Venue: Grand Prairie Stadium, Dallas^",91% SFU,SFU
+6,2025-06-26,"LAKR v. WF^Venue: Grand Prairie Stadium, Dallas^",83% WF,WF
+7,2025-06-27,"MINY v. SEO^Venue: Grand Prairie Stadium, Dallas^",67% MINY,MINY
+8,2025-06-28,"SFU v. WF^Venue: Grand Prairie Stadium, Dallas^",66% SFU,SFU
+10,2025-06-28,"LAKR v. SEO^Venue: Grand Prairie Stadium, Dallas^",53% LAKR,LAKR
+9,2025-06-29,"TSK v. MINY^Venue: Grand Prairie Stadium, Dallas^",62% TSK,TSK
