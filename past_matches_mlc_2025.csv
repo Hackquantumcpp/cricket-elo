@@ -1,0 +1,52 @@
+,date,winner,venue,first_team,second_team,first_runs,first_balls,first_overs,second_runs,second_balls,second_overs,net_run_rate,year,venue_country
+0,2023-07-13,Texas Super Kings,Grand Prairie Stadium,Texas Super Kings,Los Angeles Knight Riders,181.0,120.0,20.0,112.0,84.0,14.0,3.45,2023,Texas Super Kings
+1,2023-07-14,San Francisco Unicorns,Grand Prairie Stadium,San Francisco Unicorns,MI New York,215.0,120.0,20.0,193.0,120.0,20.0,1.1,2023,Texas Super Kings
+2,2023-07-14,Seattle Orcas,Grand Prairie Stadium,Washington Freedom,Seattle Orcas,144.0,120.0,20.0,148.0,118.0,19.4,0.42886597938144355,2023,Texas Super Kings
+3,2023-07-15,Seattle Orcas,Grand Prairie Stadium,Seattle Orcas,San Francisco Unicorns,177.0,120.0,20.0,142.0,107.0,17.5,1.75,2023,Texas Super Kings
+4,2023-07-16,Washington Freedom,Grand Prairie Stadium,Washington Freedom,Texas Super Kings,163.0,120.0,20.0,157.0,120.0,20.0,0.3,2023,Texas Super Kings
+5,2023-07-16,MI New York,Grand Prairie Stadium,MI New York,Los Angeles Knight Riders,155.0,120.0,20.0,50.0,83.0,13.5,5.25,2023,Texas Super Kings
+6,2023-07-17,Texas Super Kings,Grand Prairie Stadium,Texas Super Kings,MI New York,154.0,120.0,20.0,137.0,120.0,20.0,0.85,2023,Texas Super Kings
+7,2023-07-18,San Francisco Unicorns,Grand Prairie Stadium,San Francisco Unicorns,Los Angeles Knight Riders,212.0,120.0,20.0,191.0,120.0,20.0,1.05,2023,Texas Super Kings
+8,2023-07-20,Washington Freedom,"Church Street Park, Morrisville",Los Angeles Knight Riders,Washington Freedom,175.0,120.0,20.0,177.0,109.0,18.1,1.0290055248618781,2023,neutral
+9,2023-07-21,Seattle Orcas,"Church Street Park, Morrisville",Texas Super Kings,Seattle Orcas,127.0,120.0,20.0,128.0,96.0,16.0,1.6500000000000004,2023,neutral
+10,2023-07-22,Washington Freedom,"Church Street Park, Morrisville",Washington Freedom,San Francisco Unicorns,133.0,120.0,20.0,103.0,119.0,19.5,1.5,2023,neutral
+12,2023-07-23,MI New York,"Church Street Park, Morrisville",Washington Freedom,MI New York,160.0,120.0,20.0,161.0,93.0,15.3,2.522875816993464,2023,neutral
+11,2023-07-23,Los Angeles Knight Riders,"Church Street Park, Morrisville",Seattle Orcas,Los Angeles Knight Riders,170.0,120.0,20.0,175.0,115.0,19.1,0.6623036649214651,2023,neutral
+13,2023-07-24,Texas Super Kings,"Church Street Park, Morrisville",San Francisco Unicorns,Texas Super Kings,171.0,120.0,20.0,172.0,115.0,19.1,0.4552356020942394,2023,neutral
+14,2023-07-25,Seattle Orcas,"Church Street Park, Morrisville",MI New York,Seattle Orcas,194.0,120.0,20.0,195.0,116.0,19.2,0.4562500000000007,2023,neutral
+15,2023-07-27,MI New York,Grand Prairie Stadium,MI New York,Washington Freedom,141.0,120.0,20.0,125.0,120.0,20.0,0.8,2023,Texas Super Kings
+16,2023-07-27,Seattle Orcas,Grand Prairie Stadium,Texas Super Kings,Seattle Orcas,126.0,120.0,20.0,127.0,90.0,15.0,2.166666666666667,2023,Texas Super Kings
+17,2023-07-28,MI New York,Grand Prairie Stadium,Texas Super Kings,MI New York,158.0,120.0,20.0,162.0,114.0,19.0,0.6263157894736846,2023,Texas Super Kings
+18,2023-07-30,MI New York,Grand Prairie Stadium,Seattle Orcas,MI New York,183.0,120.0,20.0,184.0,96.0,16.0,2.3499999999999996,2023,Texas Super Kings
+19,2024-07-05,MI New York,"Church Street Park, Morrisville",Seattle Orcas,MI New York,108.0,115.0,19.1,111.0,86.0,14.2,2.162451146670601,2024,neutral
+20,2024-07-05,Los Angeles Knight Riders,"Grand Prairie Stadium, Dallas",Los Angeles Knight Riders,Texas Super Kings,162.0,120.0,20.0,150.0,120.0,20.0,0.6,2024,Texas Super Kings
+21,2024-07-06,Washington Freedom,"Church Street Park, Morrisville",MI New York,Washington Freedom,154.0,120.0,20.0,55.0,46.0,7.4,-0.2675675675675677,2024,neutral
+22,2024-07-07,San Francisco Unicorns,"Grand Prairie Stadium, Dallas",Los Angeles Knight Riders,San Francisco Unicorns,165.0,120.0,20.0,166.0,92.0,15.2,2.6710526315789487,2024,Texas Super Kings
+24,2024-07-09,Seattle Orcas,"Grand Prairie Stadium, Dallas",Los Angeles Knight Riders,Seattle Orcas,168.0,120.0,20.0,169.0,119.0,19.5,0.2666666666666657,2024,Texas Super Kings
+25,2024-07-10,Texas Super Kings,"Church Street Park, Morrisville",San Francisco Unicorns,Texas Super Kings,127.0,107.0,17.5,128.0,77.0,12.5,2.982857142857143,2024,neutral
+26,2024-07-11,Washington Freedom,"Grand Prairie Stadium, Dallas",Seattle Orcas,Washington Freedom,124.0,118.0,19.4,127.0,110.0,18.2,0.5862694007023901,2024,Texas Super Kings
+27,2024-07-14,Washington Freedom,"Church Street Park, Morrisville",Los Angeles Knight Riders,Washington Freedom,129.0,112.0,18.4,130.0,96.0,16.0,1.1141304347826084,2024,neutral
+28,2024-07-14,Texas Super Kings,"Grand Prairie Stadium, Dallas",Texas Super Kings,MI New York,176.0,120.0,20.0,161.0,120.0,20.0,0.75,2024,Texas Super Kings
+29,2024-07-15,San Francisco Unicorns,"Church Street Park, Morrisville",San Francisco Unicorns,Seattle Orcas,165.0,120.0,20.0,142.0,120.0,20.0,1.15,2024,neutral
+30,2024-07-16,Washington Freedom,"Grand Prairie Stadium, Dallas",Washington Freedom,MI New York,182.0,120.0,20.0,88.0,81.0,13.3,4.7,2024,Texas Super Kings
+31,2024-07-17,Los Angeles Knight Riders,"Church Street Park, Morrisville",Seattle Orcas,Los Angeles Knight Riders,142.0,120.0,20.0,143.0,115.0,19.1,0.3869109947643974,2024,neutral
+32,2024-07-18,San Francisco Unicorns,"Grand Prairie Stadium, Dallas",San Francisco Unicorns,MI New York,148.0,120.0,20.0,145.0,120.0,20.0,0.15,2024,Texas Super Kings
+33,2024-07-19,Washington Freedom,"Grand Prairie Stadium, Dallas",Washington Freedom,Texas Super Kings,206.0,120.0,20.0,164.0,119.0,19.5,2.1,2024,Texas Super Kings
+34,2024-07-20,San Francisco Unicorns,"Grand Prairie Stadium, Dallas",Seattle Orcas,San Francisco Unicorns,152.0,120.0,20.0,156.0,86.0,14.2,3.385915492957748,2024,Texas Super Kings
+35,2024-07-21,MI New York,"Grand Prairie Stadium, Dallas",Los Angeles Knight Riders,MI New York,130.0,115.0,19.1,134.0,102.0,17.0,1.0760702186633821,2024,Texas Super Kings
+36,2024-07-22,San Francisco Unicorns,"Grand Prairie Stadium, Dallas",Washington Freedom,San Francisco Unicorns,174.0,93.0,15.3,177.0,82.0,13.4,1.8364062042727554,2024,Texas Super Kings
+37,2024-07-23,Texas Super Kings,"Grand Prairie Stadium, Dallas",Texas Super Kings,Seattle Orcas,177.0,120.0,20.0,140.0,120.0,20.0,1.85,2024,Texas Super Kings
+38,2024-07-24,Texas Super Kings,"Grand Prairie Stadium, Dallas",MI New York,Texas Super Kings,163.0,120.0,20.0,167.0,111.0,18.3,0.9756830601092883,2024,Texas Super Kings
+39,2024-07-25,Washington Freedom,"Grand Prairie Stadium, Dallas",San Francisco Unicorns,Washington Freedom,145.0,114.0,19.0,149.0,93.0,15.3,2.106983144134846,2024,Texas Super Kings
+40,2024-07-26,San Francisco Unicorns,"Grand Prairie Stadium, Dallas",San Francisco Unicorns,Texas Super Kings,200.0,120.0,20.0,190.0,120.0,20.0,0.5,2024,Texas Super Kings
+41,2024-07-28,Washington Freedom,"Grand Prairie Stadium, Dallas",Washington Freedom,San Francisco Unicorns,207.0,120.0,20.0,111.0,96.0,16.0,4.8,2024,Texas Super Kings
+42,2025-06-12,San Francisco Unicorns,"Oakland Coliseum,Oakland",San Francisco Unicorns,Washington Freedom,269.0,120.0,20.0,146.0,79.0,13.1,6.15,2025,San Francisco Unicorns
+43,2025-06-13,Texas Super Kings,"Oakland Coliseum,Oakland",Texas Super Kings,MI New York,185.0,120.0,20.0,182.0,120.0,20.0,0.15,2025,San Francisco Unicorns
+44,2025-06-14,San Francisco Unicorns,"Oakland Coliseum,Oakland",San Francisco Unicorns,Los Angeles Knight Riders,219.0,120.0,20.0,187.0,119.0,19.5,1.6,2025,San Francisco Unicorns
+45,2025-06-14,Washington Freedom,"Oakland Coliseum,Oakland",Seattle Orcas,Washington Freedom,145.0,120.0,20.0,149.0,81.0,13.3,3.9530075187969924,2025,San Francisco Unicorns
+0,2025-06-15,Texas Super Kings,"Oakland Coliseum,Oakland",Texas Super Kings,Los Angeles Knight Riders,181.0,120.0,20.0,124.0,99.0,17.1,2.85,2025,San Francisco Unicorns
+2,2025-06-15,San Francisco Unicorns,"Oakland Coliseum,Oakland",MI New York,San Francisco Unicorns,182.0,120.0,20.0,188.0,110.0,19.1,0.7429319371727736,2025,San Francisco Unicorns
+1,2025-06-16,Texas Super Kings,"Oakland Coliseum,Oakland",Texas Super Kings,Seattle Orcas,153.0,120.0,20.0,60.0,80.0,13.5,4.65,2025,San Francisco Unicorns
+3,2025-06-17,Washington Freedom,"Oakland Coliseum,Oakland",Washington Freedom,Los Angeles Knight Riders,208.0,120.0,20.0,95.0,96.0,16.3,5.65,2025,San Francisco Unicorns
+4,2025-06-18,MI New York,"Oakland Coliseum,Oakland",Seattle Orcas,MI New York,200.0,120.0,20.0,203.0,114.0,19.0,0.6842105263157894,2025,San Francisco Unicorns
+5,2025-06-20,San Francisco Unicorns,"Grand Prairie Stadium, Dallas",Texas Super Kings,San Francisco Unicorns,198.0,120.0,20.0,202.0,91.0,16.1,2.646583850931675,2025,Texas Super Kings

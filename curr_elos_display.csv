@@ -1,7 +1,8 @@
-,Abbr.,Current Elo
-San Francisco Unicorns,SFU,1733
-Washington Freedom,WF,1619
-Texas Super Kings,TSK,1533
-MI New York,MINY,1449
-Los Angeles Knight Riders,LAKR,1342
-Seattle Orcas,SEO,1324
+, , , ,~~~Probabilities~~~, , 
+,Abbr.,Current Elo,Last Change,Make Playoffs,Make Finals,Win Finals
+San Francisco Unicorns,SFU,1673,-33.0,100.0,71.55,36.1
+Texas Super Kings,TSK,1659,69.0,100.0,74.27,44.1
+Washington Freedom,WF,1583,-69.0,100.0,45.53,17.14
+MI New York,MINY,1441,26.0,58.81999999999999,4.62,1.15
+Seattle Orcas,SEO,1362,33.0,39.21,3.9899999999999998,1.51
+Los Angeles Knight Riders,LAKR,1281,-26.0,1.97,0.04,0.0
