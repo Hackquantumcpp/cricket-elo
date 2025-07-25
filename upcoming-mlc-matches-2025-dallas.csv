@@ -1,21 +1,23 @@
 date,first_team,second_team,venue,first_runs,first_balls,first_overs,second_runs,second_balls,second_overs,winner
 2025-06-21,MI New York,Washington Freedom,"Grand Prairie Stadium, Dallas",188,120,20,189,113,19.2,Washington Freedom
-2025-06-22,Los Angeles Knight Riders,Seattle Orcas,"Grand Prairie Stadium, Dallas",177,120,20,178,10,18.2,Los Angeles Knight Riders
+2025-06-22,Seattle Orcas,Los Angeles Knight Riders,"Grand Prairie Stadium, Dallas",177,120,20,178,10,18.2,Los Angeles Knight Riders
 2025-06-22,Texas Super Kings,Washington Freedom,"Grand Prairie Stadium, Dallas",220,120,20,223,118,19.4,Washington Freedom
-2025-06-23,MI New York,San Francisco Unicorns,"Grand Prairie Stadium, Dallas",246,120,20,199,120,20,San Francisco Unicorns
+2025-06-23,San Francisco Unicorns,MI New York,"Grand Prairie Stadium, Dallas",246,120,20,199,120,20,San Francisco Unicorns
 2025-06-24,Texas Super Kings,Los Angeles Knight Riders,"Grand Prairie Stadium, Dallas",196,120,20,144,120,20,Texas Super Kings
 2025-06-25,San Francisco Unicorns,Seattle Orcas,"Grand Prairie Stadium, Dallas",176,120,20,144,110,18.2,San Francisco Unicorns
 2025-06-26,Los Angeles Knight Riders,Washington Freedom,"Grand Prairie Stadium, Dallas",213,120,20,214,120,20,Washington Freedom
 2025-06-27,MI New York,Seattle Orcas,"Grand Prairie Stadium, Dallas",237,120,20,238,120,20,Seattle Orcas
-2025-06-28,San Francisco Unicorns,Washington Freedom,"Grand Prairie Stadium, Dallas",169,120,20,157,120,20,Washington Freedom
+2025-06-28,Washington Freedom,San Francisco Unicorns,"Grand Prairie Stadium, Dallas",169,120,20,157,120,20,Washington Freedom
 2025-06-29,Texas Super Kings,MI New York,"Grand Prairie Stadium, Dallas",223,120,20,184,120,20,Texas Super Kings
 2025-06-28,Los Angeles Knight Riders,Seattle Orcas,"Grand Prairie Stadium, Dallas",202,120,20,206,119,20,Seattle Orcas
 2025-07-01,San Francisco Unicorns,Seattle Orcas,"Central Broward Regional Park Stadium, Lauderhill",168,120,20,169,117,19.3,Seattle Orcas
 2025-07-02,Texas Super Kings,Washington Freedom,"Central Broward Regional Park Stadium, Lauderhill",87,30,5,44,30,5,Texas Super Kings
 2025-07-03,Los Angeles Knight Riders,MI New York,"Central Broward Regional Park Stadium, Lauderhill",154,120,20,155,107,17.5,MI New York
-2025-07-04,San Francisco Unicorns,Texas Super Kings,"Central Broward Regional Park Stadium, Lauderhill",,,,,,,
-2025-07-04,Seattle Orcas,Washington Freedom,"Central Broward Regional Park Stadium, Lauderhill",,,,,,,
-2025-07-05,Los Angeles Knight Riders,MI New York,"Central Broward Regional Park Stadium, Lauderhill",,,,,,,
-2025-07-05,Seattle Orcas,Texas Super Kings,"Central Broward Regional Park Stadium, Lauderhill",,,,,,,
-2025-07-06,MI New York,Washington Freedom,"Central Broward Regional Park Stadium, Lauderhill",,,,,,,
-2025-07-06,Los Angeles Knight Riders,San Francisco Unicorns,"Central Broward Regional Park Stadium, Lauderhill",,,,,,,
+2025-07-04,San Francisco Unicorns,Texas Super Kings,"Central Broward Regional Park Stadium, Lauderhill",148,120,20,147,120,20,San Francisco Unicorns
+2025-07-04,Seattle Orcas,Washington Freedom,"Central Broward Regional Park Stadium, Lauderhill",82,107,17.4,86,56,9.2,Washington Freedom
+2025-07-05,MI New York,Los Angeles Knight Riders,"Central Broward Regional Park Stadium, Lauderhill",142,120,20,136,120,20,MI New York
+2025-07-05,Texas Super Kings,Seattle Orcas,"Central Broward Regional Park Stadium, Lauderhill",188,120,20,137,113,18.4,Texas Super Kings
+2025-07-06,MI New York,Washington Freedom,"Central Broward Regional Park Stadium, Lauderhill",112,108,18,113,90,15,Washington Freedom
+2025-07-06,Los Angeles Knight Riders,San Francisco Unicorns,"Central Broward Regional Park Stadium, Lauderhill",243,120,20,233,120,20,Los Angeles Knight Riders
+2025-07-08,Texas Super Kings,Washington Freedom,"Grand Prairie Stadium, Dallas",,,,,,,
+2025-07-09,San Francisco Unicorns,MI New York,"Grand Prairie Stadium, Dallas",,,,,,,
